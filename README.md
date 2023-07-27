@@ -1,7 +1,6 @@
 # Siamese Network
 
-[![GitHub stars](https://img.shields.io/github/stars/elcaiseri/Siamese-Network)](https://github.com/elcaiseri/Siamese-Network/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/elcaiseri/Siamese-Network)](https://github.com/elcaiseri/Siamese-Network/watchers)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-blue.svg)
 
 This repository contains an example of using a Siamese Network with a triplet loss for image similarity estimation. A [Siamese Network](https://en.wikipedia.org/wiki/Siamese_neural_network) is a type of network architecture that
 contains two or more identical subnetworks used to generate feature vectors for each input and compare them.
