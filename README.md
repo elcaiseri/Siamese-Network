@@ -67,6 +67,3 @@ A summary of the key points covered in the example.
 This example demonstrates image similarity estimation using a Siamese Network with a triplet loss.
 
 © 2023 [elcaiseri](https://github.com/elcaiseri)
-
----
-*GitHub is not affiliated with this project. The names and logos mentioned above are trademarks of their respective owners.*
